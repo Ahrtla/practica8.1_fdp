@@ -1,0 +1,24 @@
+#include<stdio.h>
+int main(){
+ int r1;
+int c1;
+ int cr;
+int Cc;
+ int m1 [10][10];
+  printf("introducir el numero de renglones");
+ scanf("%d",&r1);
+ printf("\nintroducir el numerode columnas");
+ scanf("%d",&c1);
+ 
+ Cr=0;
+Cc=0;
+ while(Cr<=r1) {
+   while(Cc<=c1) {
+   printf("Escribir numero\n");
+   scanf("%d",&m1 [Cr][Cc];
+   CC=CC+1;
+  Cr=CR+1;
+
+}
+return 0;
+} 
